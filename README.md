@@ -1,4 +1,4 @@
-# Simple Client to Server chat
+# Simple console Client to Server chat
 
 A lightweight console-based messenger built with **C#** using **TCP Sockets**. 
 This project demonstrates the core concepts of networking, data streams (`NetworkStream`), and basic client-server architecture.
