@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="yomayo client/yomayo client.csproj" Id="0d0abd67-1ab5-4b19-81b0-81e41bcadbab" />
+  <Project Path="yomayo serv/yomayo serv.csproj" Id="7efa866c-e14c-4bfa-ab38-3ef45cd0ecd8" />
+</Solution>
